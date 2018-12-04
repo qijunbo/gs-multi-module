@@ -3,6 +3,10 @@
 :source-highlighter: prettify
 :project_id: draft-gs-multi-module
 
+
+我可以在这个上面打个小广告吗?
+
+
 This guide shows you how to create a multi-module project with Spring Boot, in which there is a library jar and a main application that uses the library. You could also use it just to see how to build a library on its own (i.e. a jar file that is not an application).
 
 == What you'll build
